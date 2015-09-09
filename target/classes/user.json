@@ -1,0 +1,18 @@
+{
+    "id": 87,
+    "owner_id": 4,
+    "full_name": "John Partizan",
+    "email": "john@domain.com",
+    "login": "Kitty",
+    "phone": 7665891,
+    "website": "http://partizan.com",
+    "created_at": "2012-03-20T08:47:34Z",
+    "updated_at": "2012-05-09T08:25:33Z",
+    "last_request_at": "2012-05-08T13:07:37Z",
+    "external_user_id": 158,
+    "facebook_id": "1346987743",
+    "twitter_id": "545878645453",
+    "blob_id": null,
+    "custom_data": null,
+    "user_tags": "hello, world, hey"
+}
